@@ -42,4 +42,5 @@ This project helped me practice:
 * Game logic implementation
 * Responsive web design
 
+To play use the link : https://kdutt0219.github.io/TIC-TAC-TOE-GAME/
 
